@@ -1,4 +1,11 @@
 [
-  { "username": "user" },
-  { "username": "anotherUser" }
+  {
+    "username": "user"
+  },
+  {
+    "username": "anotherUser"
+  },
+  {
+    "username": "isiah32"
+  }
 ]
